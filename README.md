@@ -7,11 +7,11 @@ A short reference document covering five vulnerabilities from the current OWASP 
 ## Contents
 
 - **Vulnerabilities covered:**
-  1. Broken Access Control
-  2. Software Supply Chain Failures
-  3. Security Logging and Alerting Failures
-  4. Cryptographic Failures
-  5. Software or Data Integrity Failures
+  1. A01:2025-Broken Access Control
+  2. A03:2025-Software Supply Chain Failures
+  3. A04:2025-Cryptographic Failures
+  4. A08:2025-Software or Data Integrity Failures
+  5. A09:2025-Security Logging and Alerting Failures
 
 ## What's inside each entry
 
