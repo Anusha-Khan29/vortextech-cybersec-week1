@@ -20,6 +20,16 @@ A short reference document covering five vulnerabilities from the current OWASP 
 - A real-world breach example
 - Practical prevention / mitigation steps
 
+## References:
+- https://owasp.org/Top10/2025/
+- https://owasp.org/Top10/2025/A01_2025-Broken_Access_Control/
+- https://tryhackme.com/room/owaspbrokenaccesscontrol 
+- https://owasp.org/Top10/2025/A03_2025-Software_Supply_Chain_Failures/
+- https://www.authgear.com/post/owasp-2025-software-supply-chain-failures/ 
+- https://www.geeksforgeeks.org/
+- https://owasp.org/Top10/2025/A04_2025-Cryptographic_Failures/ 
+- https://owasp.org/Top10/2025/A08_2025-Software_or_Data_Integrity_Failures/ 
+- https://owasp.org/Top10/2025/A09_2025-Security_Logging_and_Alerting_Failures/ 
 
 
 ## Author
